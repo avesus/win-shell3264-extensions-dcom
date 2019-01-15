@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="platform_win32"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		PreprocessorDefinitions="WIN32"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		TargetMachine="1"
+	/>
+	<Tool
+		Name="VCMIDLTool"
+		TargetEnvironment="1"
+	/>
+</VisualStudioPropertySheet>
